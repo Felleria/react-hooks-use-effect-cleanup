@@ -1,6 +1,6 @@
 # The useEffect Hook - Cleaning Up
 
-## Learning Goals
+## Learning Goal5
 
 - Use a cleanup function with `useEffect` to stop background processes
 
